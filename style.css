@@ -10,6 +10,21 @@ header, footer {
   text-align: center;
   padding: 20px;
 }
+.cv-button {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 12px 20px;
+  background: #ffffff;
+  color: #1e90ff;
+  border-radius: 5px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.cv-button:hover {
+  background: #f0f0f0;
+}
+
 
 section {
   background: white;
